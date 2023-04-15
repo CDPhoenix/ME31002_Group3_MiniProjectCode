@@ -1,3 +1,7 @@
+%ME31002 MiniProject
+%WANG Dapeng Phoenix 20074734d Department of Mechanical Engineering
+%THE HONG KONG POLYTECHNIC UNIVERSITY
+%Contact: 20074734d@connect.polyu.hk
 
 
 
