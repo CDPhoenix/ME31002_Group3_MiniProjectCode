@@ -1,3 +1,8 @@
+%ME31002 MiniProject
+%WANG Dapeng Phoenix 20074734d Department of Mechanical Engineering
+%THE HONG KONG POLYTECHNIC UNIVERSITY
+%Contact: 20074734d@connect.polyu.hk
+
 dataset1 = readtable('Triple_light1.csv');
 dataset2 = readtable('Double_light1.csv');
 dataset3 = readtable('oneLight_oneTight1.csv');
