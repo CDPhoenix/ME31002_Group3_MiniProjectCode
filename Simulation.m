@@ -55,7 +55,7 @@ function [K1,K2,b] = parametersFind(F1,F2,F3,m)
     b2 = sqrt(2*m*K1 - 4*pi^2*m^2*F2^2);
     b3 = sqrt((K1+K2)*m - 4*pi^2*m^2*F3^2);
     b = (b1 + b2 + b3)/3;
-    %b = 0.75*b1 + 0.125*b2 + 0.125*b3; ->加权投票，实验证明P用没有
+    %b = 0.75*b1 + 0.125*b2 + 0.125*b3;
     %b = b1;
 end
 
